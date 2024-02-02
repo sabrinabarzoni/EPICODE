@@ -1,0 +1,100 @@
+body {
+    color: #393d41;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    line-height: 1.65em;
+    ;
+
+}
+
+header {
+    color: #25a2c3;
+    text-align: center;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+
+}
+
+
+.main div:first-child  {
+    text-align: center;
+    background: url(../assets/img/banner.jpg);
+    background-size: contain;
+    font-weight: 1.2rem;
+
+
+}
+
+.main div {
+    padding: 0;
+
+}
+
+.main h1 {
+    color: #25a2c3;
+    line-height: 150%;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    ;
+
+}
+
+button {
+    background-color: #f04c2f;
+    color: white;
+    font-size: 70%;
+    border-radius: 3px;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    padding: 8px;
+    width: 130px;
+    height: 38px;
+}
+
+h2,
+h3,
+h4,
+h5 {
+    color: #25a2c3;
+}
+
+.articleuno img {
+ border-radius: 90%;
+
+}
+
+.article {
+    padding: 60%;
+}
+
+.articledue,
+h2 {
+
+    background-color: red;
+    color: white;
+    padding: 15px;
+    font-size: 30px
+}
+
+.articledue {
+    background-color: red;
+}
+
+blockquote {
+    font-size: 20px;
+    background-color: red;
+}
+
+.articletre img {
+    padding:30px ;
+    width: 470px;
+    height: 270px;
+
+;
+}
+footer, h2{
+    background-color: #25a2c3;
+}

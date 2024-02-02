@@ -1,0 +1,42 @@
+body{
+    
+    text-align: center;
+    display: inline-block;
+}
+
+header {
+    text-align: center;
+    border-bottom: 2px solid rgb(247, 204, 125);
+}
+
+ header h3 {
+    text-align: center;
+    background-color:rgb(216, 201, 176);
+    margin: 0;
+    padding: 20px;
+
+}
+.mainuno{
+    text-align: center;
+}
+
+figcaption{
+    color: gray;
+}
+.maindue{
+    text-align: left;
+}
+.maindue  h3 {
+    color:rgb(214, 42, 42);
+    
+}
+.maindue div {
+    border-left:5px solid rgb(247, 204, 125) ;
+}
+main {
+    width: 50%;
+    margin: 0 auto ;
+}
+.maindue div h2{
+border-bottom: 2px solid rgb(126, 191, 213);
+}
